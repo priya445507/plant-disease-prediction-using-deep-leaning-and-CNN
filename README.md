@@ -1,0 +1,1 @@
+# plant-disease-prediction-using-deep-leaning-and-CNN
